@@ -1,0 +1,16 @@
+.form-control {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.form-control label {
+  margin-right: 10px;
+}
+
+.form-control select {
+  width: 100px;
+  height: 30px;
+}
